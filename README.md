@@ -18,3 +18,11 @@ How to check if a computer is being managed by Active Directory
 - Can see from the screenshot below that this PC is not being managed by Active Directory because it is in a workgroup
 
   <img src="https://i.imgur.com/BjD49pT.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
+
+How to find information on the local account of a computer
+-- 
+Right click Start --> Computer Management --> Local Users and Groups --> Users 
+
+<img src="https://i.imgur.com/lwSSLT3.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
+
+
