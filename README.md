@@ -2,7 +2,7 @@
 
 Create a user then assign that user admin privileges
 --- 
-- New --> User --> Enter the login information 
+- New --> User --> Enter the account information 
 
 <img src="https://i.imgur.com/kqRxoQe.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
 
