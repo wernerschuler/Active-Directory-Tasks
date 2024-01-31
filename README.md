@@ -43,4 +43,11 @@ How to see which computer has been joined to the domain
 - Restart your computer
 - Go to Active Directory Users and Computers and see if the computer has been added to the Computers folder
 
+**When attemping to login using the account created in AD, the error message (screenshot below) appears**
+
+<img src="https://i.imgur.com/6jJpbIC.png" height="50%" width="50%" alt="DNS settings in Azure"/>
+
+- Server Manager --> Tools --> Group policy management --> 
+
+
 
