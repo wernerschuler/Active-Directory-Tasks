@@ -63,6 +63,11 @@ New Start from here
 - Right click Stacey's name --> Properties --> Member of --> Add --> Type Marketing --> Check Names --> Apply --> OK
 
 ***Flashcard group type security & distribution, group scope - domain local, global, universe***
+***Flashcard difference between organisational unit and containers***
+
+<img src="https://i.imgur.com/AYHHp86.png" height="50%" width="50%" alt="Ticket for creating an organisational unit"/>
+
+- Right click the domain name --> New --> Organisational Unit --> Enter the name
 
 
 
