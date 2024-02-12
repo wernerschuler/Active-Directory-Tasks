@@ -57,6 +57,13 @@ New Start from here
 - Once user has been created --> Right click the account --> Properties --> Organisation --> Enter the Job Title --> General --> Enter the office number
 - This user will now be able to login to any machine that is connected to the domain
 
+<img src="https://i.imgur.com/OTJc1ww.png" height="50%" width="50%" alt="Ticket for creating a group and adding a user to that group"/>
+
+- Right click --> New --> Group --> Enter the group name --> Enter the group type and scope
+- Right click Stacey's name --> Properties --> Member of --> Add --> Type Marketing --> Check Names --> Apply --> OK
+
+***Flashcard group type security & distribution, group scope - domain local, global, universe***
+
 
 
 
