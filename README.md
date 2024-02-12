@@ -68,6 +68,12 @@ New Start from here
 <img src="https://i.imgur.com/AYHHp86.png" height="50%" width="50%" alt="Ticket for creating an organisational unit"/>
 
 - Right click the domain name --> New --> Organisational Unit --> Enter the name
+- Right click the Marketing group --> Move --> MarketingOU
+
+**How to search for a user in AD**
+- ADUC --> In the top bar select 'Find objects in active directory domain services' --> Enter the name of the user --> Find Now
+
+***Carry on 31 mins in***
 
 
 
