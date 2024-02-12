@@ -1,4 +1,4 @@
-<h1>Active Directory Tasks</h1>
+<h1>Active Directory Tickets</h1>
 
 Create a user then assign that user admin privileges
 --- 
@@ -47,7 +47,17 @@ How to see which computer has been joined to the domain
 
 <img src="https://i.imgur.com/6jJpbIC.png" height="50%" width="50%" alt="DNS settings in Azure"/>
 
-- Server Manager --> Tools --> Group policy management --> 
+- Server Manager --> Tools --> Group policy management -->
+
+New Start from here 
+---
+<img src="https://i.imgur.com/SFbJrc3.png" height="50%" width="50%" alt="Adding a new staff member ticket"/>
+
+- Right click New --> User --> Enter the user information
+- Once user has been created --> Right click the account --> Properties --> Organisation --> Enter the Job Title --> General --> Enter the office number
+- This user will now be able to login to any machine that is connected to the domain
+
+
 
 
 
