@@ -83,6 +83,9 @@ New Start from here
 - ***Just unlock the account***
 - AD --> Right click the account --> Properties --> Account --> Unlock account
 
+<img src="https://i.imgur.com/SuazUl0.png" height="50%" width="50%" alt="Ticket to disable an account"/>
+- AD --> Right click the account --> Disable account
+
 
 
 
