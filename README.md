@@ -73,7 +73,16 @@ New Start from here
 **How to search for a user in AD**
 - ADUC --> In the top bar select 'Find objects in active directory domain services' --> Enter the name of the user --> Find Now
 
-***Carry on 31 mins in***
+**Do you know how to reset a password in AD**
+- Find the user in AD --> Right click --> Reset password
+
+**See password and lockout policy**
+- AD --> Tools --> Group policy management --> Forest --> Domains --> Right click Default Domain policy --> Edit --> Policies --> Windows Settings --> Security settings --> Account policies
+
+**Ticket: My account is locked can you help?**
+- ***Just unlock the account***
+- AD --> Right click the account --> Properties --> Account --> Unlock account
+
 
 
 
