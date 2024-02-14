@@ -105,7 +105,7 @@ New Start from here
 **Download ADManager Plus**
  - Create and login with admin account
  - If having problem connecting to the internet
-   - Change adapter options --> Ethernet --> IPv4 --> Properties --> preferred dns: 8.8.8.8
+   - Change adapter options --> Ethernet --> IPv4 --> Properties --> preferred dns: 8.8.8.8 (Change this back once download is complete)
  - Download google chrome
  - Search and downloadad manageengine admanager plus
  - Once downloaded run the program as an admin 
