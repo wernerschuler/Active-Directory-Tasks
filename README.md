@@ -85,6 +85,30 @@ New Start from here
 
 <img src="https://i.imgur.com/SuazUl0.png" height="50%" width="50%" alt="Ticket to disable an account"/>
 - AD --> Right click the account --> Disable account
+<br> <br>
+
+**People may use scripts when they login**
+ - Right click account --> Properties --> Profile
+ - **Logon script** - script that is executed automatically when a user logs into their computer. Such as, run 
+ a program, set up printers, and connect to shared folders.
+
+**Home folder**
+ - location on a network server where a user can store and access their personal files and data.
+ - Right click account --> Properties --> Profile
+
+**Changing someone's lastname can cause issues**
+ - Their user account, email address, and other associated information may need to be updated to reflect the new last name.
+
+**Get access to more features in the Properties tab**
+- View --> Advanced Features
+
+**Download ADManager Plus**
+ - Create and login with admin account
+ - If having problem connecting to the internet
+   - Change adapter options --> Ethernet --> IPv4 --> Properties --> preferred dns: 8.8.8.8
+ - Download google chrome
+ - Search and downloadad manageengine admanager plus
+ - Once downloaded run the program as an admin 
 
 
 
