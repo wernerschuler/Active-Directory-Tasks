@@ -66,36 +66,47 @@ Office: 349**
 **Ticket 2 <br>
 New Group <br>
 Name: Human Resources <br>
-Add Charles Morgan to this group <br>
+Add Charles Morgan to this group** <br>
 
 - Right click --> New --> Group --> Enter the group name --> Enter the group type and scope
 - Right click the user's name --> Properties --> Member of --> Add --> Type Human Resources --> Check Names --> Apply --> OK
 
-  <img src="https://i.imgur.com/7sLKV8z.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
+<img src="https://i.imgur.com/7sLKV8z.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
 
 ***Flashcard group type security & distribution, group scope - domain local, global, universe***
 ***Flashcard difference between organisational unit and containers***
 
-<img src="https://i.imgur.com/AYHHp86.png" height="50%" width="50%" alt="Ticket for creating an organisational unit"/>
+**Ticket 3 <br>
+New Organisational Unit <br>
+OU: HumanResourceOU <br>
+Add Human Resources group to OU**
 
 - Right click the domain name --> New --> Organisational Unit --> Enter the name
-- Right click the Marketing group --> Move --> MarketingOU
+- Right click the Human Resource group --> Move --> HumanResourcesOU
 
 **How to search for a user in AD**
 - ADUC --> In the top bar select 'Find objects in active directory domain services' --> Enter the name of the user --> Find Now
 
-**Do you know how to reset a password in AD**
+<img src="https://i.imgur.com/tqPqK61.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
+
+**How to reset a password in AD**
 - Find the user in AD --> Right click --> Reset password
 
 **See password and lockout policy**
 - AD --> Tools --> Group policy management --> Forest --> Domains --> Right click Default Domain policy --> Edit --> Policies --> Windows Settings --> Security settings --> Account policies
 
-**Ticket: My account is locked can you help?**
-- ***Just unlock the account***
-- AD --> Right click the account --> Properties --> Account --> Unlock account
+<img src="https://i.imgur.com/eT1BjFp.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
 
-<img src="https://i.imgur.com/SuazUl0.png" height="50%" width="50%" alt="Ticket to disable an account"/>
+**Ticket 4:<br>
+My account is locked can you help?**
+
+- AD --> Right click the account --> Properties --> Account --> Unlock account
+  
+<img src="https://i.imgur.com/1tnmGj4.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
+
+**How to disable an account**
 - AD --> Right click the account --> Disable account
+
 <br> <br>
 
 **People may use scripts when they login**
@@ -112,6 +123,8 @@ Add Charles Morgan to this group <br>
 
 **Get access to more features in the Properties tab**
 - View --> Advanced Features
+
+<img src="https://i.imgur.com/141ngkZ.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
 
 **Download ADManager Plus**
  - Create and login with admin account
