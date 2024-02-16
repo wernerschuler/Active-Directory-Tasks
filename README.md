@@ -51,7 +51,10 @@ How to see which computer has been joined to the domain
 
 New Start from here 
 ---
-<img src="https://i.imgur.com/SFbJrc3.png" height="50%" width="50%" alt="Adding a new staff member ticket"/>
+**Ticket: <br>
+Name: Charles Morgan <br>
+Job title: Digital Marketing Specialist <br>
+Office: 349**
 
 - Right click New --> User --> Enter the user information
 - Once user has been created --> Right click the account --> Properties --> Organisation --> Enter the Job Title --> General --> Enter the office number
