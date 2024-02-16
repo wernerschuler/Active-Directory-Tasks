@@ -51,19 +51,27 @@ How to see which computer has been joined to the domain
 
 New Start from here 
 ---
-**Ticket: <br>
+**Ticket 1 <br>
 Name: Charles Morgan <br>
-Job title: Digital Marketing Specialist <br>
+Job title: HR Consultant <br>
 Office: 349**
 
 - Right click New --> User --> Enter the user information
 - Once user has been created --> Right click the account --> Properties --> Organisation --> Enter the Job Title --> General --> Enter the office number
+
+<img src="https://i.imgur.com/4BpGl1y.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
+
 - This user will now be able to login to any machine that is connected to the domain
 
-<img src="https://i.imgur.com/OTJc1ww.png" height="50%" width="50%" alt="Ticket for creating a group and adding a user to that group"/>
+**Ticket 2 <br>
+New Group <br>
+Name: Human Resources <br>
+Add Charles Morgan to this group <br>
 
 - Right click --> New --> Group --> Enter the group name --> Enter the group type and scope
-- Right click Stacey's name --> Properties --> Member of --> Add --> Type Marketing --> Check Names --> Apply --> OK
+- Right click the user's name --> Properties --> Member of --> Add --> Type Human Resources --> Check Names --> Apply --> OK
+
+  <img src="https://i.imgur.com/7sLKV8z.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
 
 ***Flashcard group type security & distribution, group scope - domain local, global, universe***
 ***Flashcard difference between organisational unit and containers***
