@@ -134,6 +134,10 @@ My account is locked can you help?**
 
 <img src="https://i.imgur.com/K2RBqg8.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
 
+**Unlock a user in ADManager**
+- Management --> Unlock users --> Search the name of the user --> Check the box --> Apply
+
+
 
 
 
