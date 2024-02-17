@@ -123,7 +123,16 @@ My account is locked can you help?**
 <img src="https://i.imgur.com/8ynmxYf.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
 
  - Once the download is complete, run the program as an administrator
+ - Uncheck 'Yes, I want to view readme file'
 
+**Create a user in ADManager**
+ - Management --> Create a single user --> Input the user information
+
+<img src="https://i.imgur.com/ZPqUuTL.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
+
+- Can see from looking in ADUC that user James Taylor has been created
+
+<img src="https://i.imgur.com/K2RBqg8.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
 
 
 
