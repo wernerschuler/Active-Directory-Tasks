@@ -1,5 +1,11 @@
 <h1>Active Directory Tickets</h1>
 
+Purpose of Project
+--
+In this project I will be doing basic tasks in Active Directory. I will also download and use an Active Directory management and reporting software called ADManager Plus.
+
+Tasks
+--
 **Create a user then assign that user admin privileges**
 - New --> User --> Enter the account information 
 
@@ -30,14 +36,7 @@
 - Right click Start --> System --> Rename this PC (advanced) --> Change --> Domain --> Enter your Domain name --> Enter the the Domain name\admin account & passwo
 - Go to Active Directory Users and Computers and see if the computer has been added to the Computers folder
 
-**When attemping to login using the account created in AD, the error message (screenshot below) appears**
-
-<img src="https://i.imgur.com/6jJpbIC.png" height="50%" width="50%" alt="DNS settings in Azure"/>
-
-- Server Manager --> Tools --> Group policy management -->
-
-New Start from here 
----
+  
 **Ticket 1 <br>
 Name: Charles Morgan <br>
 Job title: HR Consultant <br>
@@ -114,12 +113,16 @@ My account is locked can you help?**
 <img src="https://i.imgur.com/141ngkZ.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
 
 **Download ADManager Plus**
- - Create and login with admin account
+ - **Note:** An application used to manage AD
+ - Login to a computer with an admin account
  - If having problem connecting to the internet
    - Change adapter options --> Ethernet --> IPv4 --> Properties --> preferred dns: 8.8.8.8 (Change this back once download is complete)
  - Download google chrome
  - Search and downloadad manageengine admanager plus
- - Once downloaded run the program as an admin 
+
+<img src="https://i.imgur.com/8ynmxYf.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
+
+ - Once the download is complete, run the program as an administrator
 
 
 
