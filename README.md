@@ -1,8 +1,16 @@
-<h1>Active Directory Tickets</h1>
+<h1>Active Directory Tasks</h1>
 
 Purpose of Project
 --
 In this project I will be doing tasks in Active Directory. I will also download and use an Active Directory management and reporting software called ADManager Plus.
+
+Environment and Software used
+--
+- Oracle VirtualBox
+- Windows 10
+- Windows Server 2019
+- Active Directory
+- ADManager Plus
 
 Tasks
 --
