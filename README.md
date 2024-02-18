@@ -2,7 +2,7 @@
 
 Purpose of Project
 --
-In this project I will be doing basic tasks in Active Directory. I will also download and use an Active Directory management and reporting software called ADManager Plus.
+In this project I will be doing tasks in Active Directory. I will also download and use an Active Directory management and reporting software called ADManager Plus.
 
 Tasks
 --
