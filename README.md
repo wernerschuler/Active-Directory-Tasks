@@ -51,7 +51,7 @@ Job title: HR Consultant <br>
 Office: 349**
 
 - Right click New --> User --> Enter the user information
-- Once user has been created --> Right click the account --> Properties --> Organisation --> Enter the Job Title --> General --> Enter the office number
+- Once the user has been created --> Right click the account --> Properties --> Organisation --> Enter the Job Title --> General --> Enter the office number
 
 <img src="https://i.imgur.com/4BpGl1y.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
 
@@ -66,9 +66,6 @@ Add Charles Morgan to this group** <br>
 - Right click the user's name --> Properties --> Member of --> Add --> Type Human Resources --> Check Names --> Apply --> OK
 
 <img src="https://i.imgur.com/7sLKV8z.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
-
-***Flashcard group type security & distribution, group scope - domain local, global, universe***
-***Flashcard difference between organisational unit and containers***
 
 **Ticket 3 <br>
 New Organisational Unit <br>
@@ -105,14 +102,14 @@ My account is locked can you help?**
 
 **People may use scripts when they login**
  - Right click account --> Properties --> Profile
- - **Logon script** - script that is executed automatically when a user logs into their computer. Such as, run 
- a program, set up printers, and connect to shared folders.
+ - **Login script** - script that is executed automatically when a user logs into their computer. Such as running
+ a program, setting up printers, and connecting to shared folders.
 
 **Home folder**
  - location on a network server where a user can store and access their personal files and data.
  - Right click account --> Properties --> Profile
 
-**Changing someone's lastname can cause issues**
+**Changing someone's last name can cause issues**
  - Their user account, email address, and other associated information may need to be updated to reflect the new last name.
 
 **Get access to more features in the Properties tab**
@@ -122,11 +119,11 @@ My account is locked can you help?**
 
 **Download ADManager Plus**
  - **Note:** An application used to manage AD
- - Login to a computer with an admin account
- - If having problem connecting to the internet
+ - Log in to a computer with an admin account
+ - If having a problem connecting to the internet
    - Change adapter options --> Ethernet --> IPv4 --> Properties --> preferred dns: 8.8.8.8 (Change this back once download is complete)
- - Download google chrome
- - Search and downloadad manageengine admanager plus
+ - Download Google Chrome
+ - Search and download ManageEngine admanager plus
 
 <img src="https://i.imgur.com/8ynmxYf.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
 
