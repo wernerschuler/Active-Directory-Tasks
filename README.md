@@ -20,7 +20,7 @@ Tasks
 <img src="https://i.imgur.com/kqRxoQe.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
 
 - Right click the user account --> Properties --> Member of --> Add --> type domain admins --> Check Names --> Apply --> OK
-- Can see from the screenshot below this user now has admin privileges
+- As can see from the screenshot below this user now has admin privileges
 
 <img src="https://i.imgur.com/SuazUl0.png" height="50%" width="50%" alt="creating a user in Active Directory"/>
 
